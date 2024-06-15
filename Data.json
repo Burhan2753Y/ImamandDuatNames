@@ -1,6 +1,1 @@
-[
-  "Imam":{
-  "id":1,
-    "name":"Imam Hassan"
-},
-"Duat":{}]
+[{"id":1,"name":"Imam Hassan"},{"id":2,"name":"Imam Hussain"}]
